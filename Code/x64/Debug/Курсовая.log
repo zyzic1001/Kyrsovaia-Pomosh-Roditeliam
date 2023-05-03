@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\user\source\repos\Курсовая\Курсовая\Main.cpp(47): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\user\source\repos\Курсовая\x64\Debug\Курсовая.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
